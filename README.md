@@ -25,10 +25,10 @@ No output or activation errors
 
 ## Folder Structure
 
-web-honey-wordpress-admin-ux/
-├── web-honey-wordpress-admin-ux.php
-├── admin-style.css
-├── README.md
+web-honey-wordpress-admin-ux/<br>
+|-web-honey-wordpress-admin-ux.php<br>
+|-admin-style.css<br>
+|-README.md<br>
 
 ## Author
 
