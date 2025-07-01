@@ -1,0 +1,12 @@
+#adminmenu .wp-menu-image {
+    display: none !important;
+}
+#adminmenu .wp-menu-name {
+    padding-left: 16px !important;
+}
+#adminmenu, #adminmenu .wp-submenu, #adminmenuback, #adminmenuwrap {
+    width: 250px !important;
+}
+#wpcontent, #wpfooter {
+    margin-left: 250px !important;
+}
