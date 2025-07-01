@@ -12,9 +12,9 @@ This plugin improves the default WordPress backend by:
 
 ## Installation
 
-1. Upload the plugin files to your `/wp-content/plugins/` directory
+1. Upload the plugin files to your /wp-content/plugins/ directory
 2. Activate the plugin through the WordPress dashboard
-3. Done — no configuration needed!
+3. Done - no configuration needed!
 
 ## Features
 
@@ -25,11 +25,10 @@ No output or activation errors
 
 ## Folder Structure
 
-web-honey-admin-ux/
+web-honey-wordpress-admin-ux/
+├── web-honey-wordpress-admin-ux.php
 ├── admin-style.css
-├── web-honey-admin-ux.php
 ├── README.md
-
 
 ## Author
 
@@ -37,4 +36,4 @@ Built with care by [Web Honey Digital](https://webhoney.digital)
 
 ## License
 
-GPLv2 or later — free to use and modify.
+GPLv2 or later - free to use and modify.
