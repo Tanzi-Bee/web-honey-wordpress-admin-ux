@@ -18,19 +18,18 @@ This plugin improves the default WordPress backend by:
 
 ## Features
 
-✅ Client-friendly layout  
-✅ Logical menu grouping  
-✅ Visual simplification  
-✅ No output or activation errors  
+Client-friendly layout  
+Logical menu grouping  
+Visual simplification  
+No output or activation errors  
 
 ## Folder Structure
 
-```
 web-honey-admin-ux/
 ├── admin-style.css
 ├── web-honey-admin-ux.php
 ├── README.md
-```
+
 
 ## Author
 
